@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneToMany/OneToMany.iml" filepath="$PROJECT_DIR$/OneToMany/OneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneToOne/OneToOne.iml" filepath="$PROJECT_DIR$/OneToOne/OneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manyToMany/manyToMany.iml" filepath="$PROJECT_DIR$/manyToMany/manyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part_01/part_01.iml" filepath="$PROJECT_DIR$/part_01/part_01.iml" />
+    </modules>
+  </component>
+</project>
